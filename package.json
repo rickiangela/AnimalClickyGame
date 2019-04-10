@@ -2,7 +2,7 @@
   "name": "rp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rickiangela.github.io/ClickyGame/",
+  "homepage": "https://rickiangela.github.io/AnimalClickyGame/",
   "dependencies": {
     "gh-pages": "^1.2.0",
     "react": "^16.4.1",
